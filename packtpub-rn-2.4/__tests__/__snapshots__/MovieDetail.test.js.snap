@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "flex": 1,
+      "padding": 10,
+    }
+  }
+>
+  <View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "flex": 1,
+          "opacity": 1,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "",
+          }
+        }
+        style={
+          Object {
+            "height": 200,
+          }
+        }
+      />
+    </View>
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "opacity": 0,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#333",
+            "fontFamily": "Avenir Next",
+            "fontSize": 24,
+            "fontWeight": "bold",
+            "paddingBottom": 10,
+            "paddingHorizontal": 5,
+            "paddingTop": 20,
+          }
+        }
+      >
+        AAAA
+      </Text>
+    </View>
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "opacity": 0,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#999",
+            "fontFamily": "Avenir Next",
+            "fontSize": 18,
+            "paddingHorizontal": 5,
+          }
+        }
+      >
+        2020
+      </Text>
+    </View>
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "opacity": 0,
+          "transform": Array [
+            Object {
+              "translateY": 50,
+            },
+          ],
+        }
+      }
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+            "paddingBottom": 20,
+            "paddingHorizontal": 5,
+            "paddingVertical": 10,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          numberOfLines={3}
+          style={
+            Object {
+              "color": "#999",
+              "flex": 1,
+              "fontFamily": "Avenir Next",
+            }
+          }
+        >
+          Blab lab lab alb abla
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
