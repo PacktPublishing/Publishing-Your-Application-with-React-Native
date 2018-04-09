@@ -12,10 +12,13 @@ The code bundle for this video course is available at - https://github.com/Packt
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Get Conceptual understanding of ReactJS and Flux 
-<LI>Learn practical application of ReactJS 
-<LI>Learn professional tricks for smart web development 
-<LI>Master the latest technologies building real world projects </LI></UL></DIV>
+<LI>Set up a React Native environment on your device
+<LI>Work with API calls to fetch data
+<LI>Add navigation to your app
+<LI>Build UX components for your React Native app
+<LI>Perform animations in your applications using the animation APIs
+<LI>Test your component with Jest snapshot testing
+<LI>Test and deploy your application for a production-ready environment</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
